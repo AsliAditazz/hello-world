@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-test repository
+This repository is practice for the Shantou project.
